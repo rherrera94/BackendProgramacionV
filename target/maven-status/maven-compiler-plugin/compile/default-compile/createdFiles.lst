@@ -1,6 +1,7 @@
 com\example\demo\model\Articulos.class
 com\example\demo\DemoApplication.class
 com\example\demo\Controller\PersonaRestController.class
+com\example\demo\model\Usuario.class
 com\example\demo\model\Rol.class
 com\example\demo\repository\Persona_Repositorio.class
 com\example\demo\model\Persona.class
@@ -10,6 +11,8 @@ com\example\demo\model\Reserva.class
 com\example\demo\repository\Reserva_Repositorio.class
 com\example\demo\service\ArticulosService.class
 com\example\demo\Controller\ReservaRestController.class
+com\example\demo\repository\UsuarioRepository.class
+com\example\demo\security\CustomUserDetailsService.class
 com\example\demo\service\SalaService.class
 com\example\demo\repository\Rol_Repositorio.class
 com\example\demo\service\PersonaService.class

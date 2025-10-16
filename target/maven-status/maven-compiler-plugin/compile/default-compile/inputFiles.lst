@@ -9,11 +9,14 @@ D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\model\P
 D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\model\Reserva.java
 D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\model\Rol.java
 D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\model\Sala.java
+D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\model\Usuario.java
 D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\repository\Articulos_Repositorio.java
 D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\repository\Persona_Repositorio.java
 D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\repository\Reserva_Repositorio.java
 D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\repository\Rol_Repositorio.java
 D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\repository\Sala_Repositorio.java
+D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\repository\UsuarioRepository.java
+D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\security\CustomUserDetailsService.java
 D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\service\ArticulosService.java
 D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\service\PersonaService.java
 D:\Rafa\repositorios\BackendProgramacionV\src\main\java\com\example\demo\service\ReservaService.java
