@@ -61,7 +61,8 @@ public class SegurityConf {
                 .csrf(csrf -> csrf.disable())
                 .authorizeHttpRequests(auth -> auth
                         .requestMatchers("/auth/login", "/error", "/auth/generate").permitAll()
-                        .requestMatchers("/api/persona/**", "/api/articulo/**", "/api/salas/**", "/api/reservas/**")
+                        .requestMatchers("/api/articulo/add", "/api/articulo/actualizar", "/api/articulo/eliminar/**","/api/persona/add", "/api/persona/actualizar", "/api/persona/eliminar/**").hasRole("ADMIN")
+                        .requestMatchers("/api/persona/listar", "/api/persona/listarporid/**", "/api/articulo/listar/**", "/api/articulo/buscarpornombre/**", "/api/reservas/**")
                         .hasAnyRole("ADMIN", "USER")
                         .anyRequest().authenticated()
                 )

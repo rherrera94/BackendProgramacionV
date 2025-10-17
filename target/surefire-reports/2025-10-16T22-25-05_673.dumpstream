@@ -1,4 +1,4 @@
-# Created at 2025-10-16T21:18:57.107
+# Created at 2025-10-16T22:25:05.826
 Boot Manifest-JAR contains absolute paths in classpath 'D:\Rafa\repositorios\BackendProgramacionV\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 'other' has different root
