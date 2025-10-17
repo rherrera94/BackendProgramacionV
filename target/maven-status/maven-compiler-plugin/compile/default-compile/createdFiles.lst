@@ -21,5 +21,6 @@ com\example\demo\model\Reserva.class
 com\example\demo\repository\UsuarioRepository.class
 com\example\demo\security\CustomUserDetailsService.class
 com\example\demo\service\SalaService.class
+com\example\demo\controller\UsuarioController.class
 com\example\demo\Conf\SegurityConf.class
 com\example\demo\model\Sala.class
