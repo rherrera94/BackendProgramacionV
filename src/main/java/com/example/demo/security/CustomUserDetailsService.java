@@ -28,7 +28,7 @@ public class CustomUserDetailsService implements UserDetailsService {
                 true,
                 true,
                 usuario.getRoles().stream()
-                        .map(r -> new SimpleGrantedAuthority(r.getNombre()))
+                        .map(r -> new SimpleGrantedAuthority("ROLE_"+r.getNombre()))
                         .collect(Collectors.toList())
         );
     }
